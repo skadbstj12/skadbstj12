@@ -1,6 +1,6 @@
-# Hello
+# 안녕하세요 저는 남윤서입니다
 
-## Let's get connected
+## 
 
 ##
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
