@@ -1,6 +1,9 @@
-# 안녕하세요 저는 남윤서입니다
+# 👋 HELLO
+Hello, my name is Nam Yunseo and I am a student learning front-end and web development.
+## contact
+![image](https://github.com/skadbstj12/skadbstj12/assets/163810643/94ba4f5f-d841-425b-8d33-a7d60f6fde2e)
+![image](https://github.com/skadbstj12/skadbstj12/assets/163810643/7cd80249-d9e3-4f4a-ab3c-6bea7c122c19)
 
-## 
 
 ##
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
@@ -24,4 +27,5 @@
 <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="25px"/>
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
- <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/> <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
+ <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/> 
+ <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
