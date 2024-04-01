@@ -1,4 +1,4 @@
-# 👋 HELLO
+## 👋 HELLO
 Hello, my name is Nam Yunseo and I am a student learning front-end and web development.
 
 <h3 align="center">📫 Contact 📫</h3>
@@ -7,7 +7,7 @@ Hello, my name is Nam Yunseo and I am a student learning front-end and web devel
     <img
       src="https://img.shields.io/badge/dbstj011225@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skadbstj12)](https://github.com/skadbstj12/github-readme-stats)
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
