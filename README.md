@@ -1,12 +1,17 @@
 # 👋 HELLO
 Hello, my name is Nam Yunseo and I am a student learning front-end and web development.
-## contact
-![image](https://github.com/skadbstj12/skadbstj12/assets/163810643/94ba4f5f-d841-425b-8d33-a7d60f6fde2e)
-![image](https://github.com/skadbstj12/skadbstj12/assets/163810643/7cd80249-d9e3-4f4a-ab3c-6bea7c122c19)
+
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="mailto:dbstj011225@gmail.com">
+    <img
+      src="https://img.shields.io/badge/dbstj011225@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
 
 
-##
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
+<h3 align="center">📚 Studying 📚</h3>
+<div align="center">
+ <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
 <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
@@ -29,3 +34,7 @@ Hello, my name is Nam Yunseo and I am a student learning front-end and web devel
  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
  <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/> 
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
+</div>
+
+<br>
+
