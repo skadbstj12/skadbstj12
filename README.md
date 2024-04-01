@@ -8,11 +8,14 @@ Hello, my name is Nam Yunseo and I am a student learning front-end and web devel
       src="https://img.shields.io/badge/dbstj011225@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 
-  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skadbstj12)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skadbstj12)](https://github.com/anuraghazra/github-readme-stats)
+
  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
