@@ -39,9 +39,8 @@
 
 
 
-## Project.2
+## Project.2     [웹툰 골라보기 사이트] https://github.com/skadbstj12/webtoon-rank
 
-[웹툰 골라보기 사이트] https://github.com/skadbstj12/webtoon-rank
 
   
 
