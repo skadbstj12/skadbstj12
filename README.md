@@ -40,7 +40,7 @@
 [Project.2]  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/> 
   [주식 차트] 진행중..</br>
 [Project.3]  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/> 
-  [주식 차트] 진행중..
+  [미정] 
 </h2>
 
 
