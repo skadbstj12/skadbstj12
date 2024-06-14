@@ -24,12 +24,25 @@
 
 </div>
 
+<h2>
+  My Portfolio </br>
 
+[My portfolio] 
+
+</h2>
 
 <h2>
   My Projects </br>
-[Project.1]  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/> [웹툰] https://github.com/skadbstj12/webtoon-rank
+
+  
+[Project.1]  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/> 
+  [웹툰 모아] <a href="https://webtoon-liard.vercel.app/">https://webtoon-liard.vercel.app/</a></br>
+[Project.2]  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/> 
+  [주식 차트] 진행중..
+[Project.3]  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/> 
+  [주식 차트] 진행중..
 </h2>
+
 
 
 
