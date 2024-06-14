@@ -28,7 +28,7 @@
 
 <h2>
   My Projects </br>
-  ### Project.1  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/> [웹툰 골라보기 사이트] https://github.com/skadbstj12/webtoon-rank
+[Project.1]  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/> [웹툰] https://github.com/skadbstj12/webtoon-rank
 </h2>
 
 
