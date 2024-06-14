@@ -34,9 +34,9 @@
 </div>
 
 
-<h3>
-  Projects
-</h3>
+<h2>
+  My Projects
+</h2>
 
   
 
