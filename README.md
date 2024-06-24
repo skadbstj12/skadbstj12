@@ -32,12 +32,12 @@
   My Projects </br>
 
   
- </br> USE stack <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/> 
-[웹툰 모아] <a href="https://webtoon-liard.vercel.app/">https://webtoon-liard.vercel.app/</a></br>[Project.1]
-</br> USE stack <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/> 
-[youtube api Movie] <a href="youtubemovie.vercel.app/">https://youtubemovie.vercel.app/</a></br>[Project.2] 
-</br>USE stack <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/> 
-[youtube api Music]  <a href="https://youtube-music2.vercel.app/">https://youtube-music2.vercel.app/</a></br>[Project.3] 
+[Project.1] </br></br> USE stack <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/> 
+[웹툰 모아] <a href="https://webtoon-liard.vercel.app/">https://webtoon-liard.vercel.app/</a></br>
+[Project.2]  </br></br> USE stack <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/> 
+[youtube api Movie] <a href="youtubemovie.vercel.app/">https://youtubemovie.vercel.app/</a></br>
+[Project.3] </br></br>USE stack <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/> 
+[youtube api Music]  <a href="https://youtube-music2.vercel.app/">https://youtube-music2.vercel.app/</a></br>
 </h2>
 
 
