@@ -32,11 +32,11 @@
   My Projects </br>
 
   
-[Project.1] </br> 사용 stack <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/> </br>
+[Project.1] </br> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/> </br>
 [웹툰 모아] <a href="https://webtoon-liard.vercel.app/">https://webtoon-liard.vercel.app/</a></br></br>
-[Project.2]  </br> 사용 stack <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/> </br>
+[Project.2]  </br><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/> </br>
 [youtube api Movie] <a href="youtubemovie.vercel.app/">https://youtubemovie.vercel.app/</a></br></br>
-[Project.3] </br> 사용 stack <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/> </br>
+[Project.3] </br><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/> </br>
 [youtube api Music]  <a href="https://youtube-music2.vercel.app/">https://youtube-music2.vercel.app/</a></br></br>
 </h2>
 
